@@ -9,4 +9,4 @@ Sou um QA Engineer apaixonado por tecnologia e automação de testes. Aqui você
 
 ## 📞 Entre em Contato
 * ✉️ Email: lucas0206@gmail.com 
-* 💼 LinkedIn: https://www.linkedin.com/in/lucasrocha0206/
+* 💼 [LinkedIn](https://www.linkedin.com/in/lucasrocha0206/)
