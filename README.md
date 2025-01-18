@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Olá, seja bem-vindo(a) ao meu perfil.
+
+Sou um QA Engineer apaixonado por tecnologia e automação de testes. Aqui você encontrará projetos e exemplos que demonstram minhas habilidades em garantir qualidade de software por meio de testes automatizados eficientes e escaláveis.
 
 <!--
 **deluca0206/deluca0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
