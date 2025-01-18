@@ -1,18 +1,17 @@
 ## 👋 Olá, seja bem-vindo(a) ao meu perfil.
-
 Sou um QA Engineer apaixonado por tecnologia e automação de testes. Aqui você encontrará projetos e exemplos que demonstram minhas habilidades em garantir qualidade de software por meio de testes automatizados eficientes e escaláveis.
 
-<!--
-**deluca0206/deluca0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
+🎯 Especialista em automação de testes com Cypress e Robot Framework;
+🧩 Experiência em testes funcionais, de ponta a ponta e orientados a dados;
+🔍 Sempre aprendendo novas ferramentas e técnicas para melhorar a qualidade de software;
+🌱 Atualmente explorando testes visuais e de desempenho.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+* Linguagens: JavaScript, Python, Cobol
+* Frameworks: Cypress, Robot Framework, Postman
+* Ferramentas: Git, CI/CD (Jenkins, GitHub Actions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📞 Entre em Contato
+* ✉️ Email: lucas0206@gmail.com 
+* 💼 LinkedIn: https://www.linkedin.com/in/lucasrocha0206/
